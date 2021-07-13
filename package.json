@@ -1,0 +1,24 @@
+{
+  "name": "learn-api",
+  "version": "1.0.0",
+  "description": "learn rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/84raja/learn-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "84raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/84raja/learn-api/issues"
+  },
+  "homepage": "https://github.com/84raja/learn-api#readme"
+}
